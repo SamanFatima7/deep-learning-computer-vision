@@ -137,6 +137,6 @@ Most of these datasets come from agricultural research labs in countries where s
 
 ## 👋 About
 
-Saman Fatima — Kaggle Legacy Grandmaster, data scientist from Pakistan. Find more of my work on [Kaggle](https://www.kaggle.com/samanfatima7) and [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
+Saman Fatima — Kaggle Grandmaster, data scientist from Pakistan. Find more of my work on [Kaggle](https://www.kaggle.com/samanfatima7) and [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
 
 ⭐ if any of these helped — and reach out if you're working on something in this space, I love collaborating.
